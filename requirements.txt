@@ -1,0 +1,7 @@
+aiohttp>=3.6.0,<4
+requests
+psutil
+pypiwin32
+pycryptodome
+pyinstaller
+pillow
