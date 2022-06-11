@@ -5,3 +5,10 @@ pypiwin32
 pycryptodome
 pyinstaller
 pillow
+httpx
+pyotp
+psutil
+pypiwin32
+pycryptodome
+pyinstaller>=4.9
+PIL-tools
